@@ -1,0 +1,279 @@
+#EXTM3U
+#EXTINF:-1 ,SONY SAB HD
+http://208.86.19.13:81/7022.stream/index.m3u8
+#EXTINF:-1 ,& TV HD
+http://208.86.19.13:81/7033.stream/index.m3u8
+#EXTINF:-1 ,STAR BHARAT
+http://208.86.19.13:81/7211.stream/index.m3u8
+#EXTINF:-1 ,&PICTURESHD
+http://208.86.19.13:81/7055.stream/index.m3u8
+#EXTINF:-1 ,SONY MAX HD
+http://208.86.19.13:81/7066.stream/index.m3u8
+#EXTINF:-1 ,ZEE ACTION
+http://208.86.19.13:81/7288.stream/index.m3u8
+#EXTINF:-1 ,SONY MAX 2
+http://208.86.19.13:81/7300.stream/index.m3u8
+#EXTINF:-1 ,UTV HD
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,Colors Cineplex HD
+http://208.86.19.13:81/73555.stream/index.m3u8
+#EXTINF:-1 ,Star Plus HD
+http://172.16.29.250/hls/starplus.m3u8
+#EXTINF:-1 ,Sony HD
+http://172.16.29.250/hls/sonyen.m3u8
+#EXTINF:-1 ,Colors HD
+http://172.16.29.250/hls/colore-tv-hd.m3u8
+#EXTINF:-1 ,&Pictures HD
+http://172.16.29.250/hls/andpictures.m3u8
+#EXTINF:-1 ,Zee Cinema HD
+http://172.16.29.250/hls/zeecinemahd.m3u8
+#EXTINF:-1 ,Star Gold HD
+http://172.16.29.250/hls/stargold.m3u8
+#EXTINF:-1 ,Star Gold2
+http://172.16.29.250/hls/stargold2hd.m3u8
+#EXTINF:-1 ,Sony Max HD
+http://172.16.29.250/hls/sony-maxhd.m3u8
+#EXTINF:-1 ,Colors Cineplex HD
+http://172.16.29.250/hls/colorscineplex.m3u8
+#EXTINF:-1 ,UTV Action
+http://172.16.29.250/hls/utvaction.m3u8
+#EXTINF:-1 ,Zoom
+http://172.16.29.250/hls/zoom.m3u8
+#EXTINF:-1 ,Bindaas
+http://172.16.29.250/hls/bindass.m3u8
+#EXTINF:-1 ,MN+ HD
+http://172.16.29.250/hls/mn+.m3u8
+#EXTINF:-1 ,MNX HD
+http://172.16.29.250/hls/mnx-hd.m3u8
+#EXTINF:-1 ,Star World HD
+http://172.16.29.250/hls/star-worldhd.m3u8
+#EXTINF:-1 ,Sony Pix HD
+http://172.16.29.250/hls/sonypixhd.m3u8
+#EXTINF:-1 ,Star Movies HD
+http://172.16.29.250/hls/starmovies.m3u8
+#EXTINF:-1 ,Movies Now HD
+http://172.16.29.250/hls/movies-now.m3u8
+#EXTINF:-1 ,Zee TV HD
+http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8?token=test
+#EXTINF:-1 ,Star Plus HD
+http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,UTV Action(BD)
+http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,Star Gold
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,Star Gold 2
+http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,ZEE ANMOL CINEMA
+http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,MTV
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,Star Gold Select HD
+http://180.178.188.152:8000/play/a014
+#EXTINF:-1 ,SAHARA
+http://42.200.67.163:8090/play/a0qi
+#EXTINF:-1 ,DMAKA MOVIES
+http://42.200.67.163:8090/play/a0pv
+#EXTINF:-1 ,ZEE AFLAM
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,B4U MOVIES 1
+http://42.200.67.163:8090/play/a0nb
+#EXTINF:-1 group-title="freecatv",STAR PLUS HD (IN)
+http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8?token=test
+#EXTINF:-1 group-title="freecatv",COLORS HD (IN)
+http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8?token=test
+#EXTINF:-1 group-title="freecatv",COLORS HD (IN)
+http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test
+#EXTINF:-1 group-title="freecatv",ZEE CLASSIC (IN)
+http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="freecatv",Duronto Tv
+http://89.187.185.89:3232/ban-duronto/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,National Geographic Wild
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 ,79.Discovery Investigation
+http://168.205.87.198:8555/live/adriana/123456/36.m3u8
+#EXTINF:-1 ,Champions TV
+http://tv.zonanime.my.id/vidio/championstv1.m3u8
+#EXTINF:-1 ,STAR PLUS HD (IN)
+http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,&pictures HD
+http://180.178.188.152:8000/play/a017
+#EXTINF:-1 ,&tv HD
+http://180.178.188.152:8000/play/a01u
+#EXTINF:-1 ,Sony Entertainment TV
+http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
+#EXTINF:-1 ,Star Gold HD
+http://180.178.188.152:8000/play/a012
+#EXTINF:-1 ,Star Gold 2
+http://180.178.188.152:8000/play/a01q
+#EXTINF:-1 ,Hindi TV
+https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
+#EXTINF:-1 ,Star Bharat HD
+http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
+#EXTINF:-1 ,B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:-1 group-title="freecatv",IB Tv Usa
+http://208.86.19.13:81/509.stream/index.m3u8
+#EXTINF:-1 ,MEEM TV
+http://208.86.19.13:81/502.stream/index.m3u8
+#EXTINF:-1 ,Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+#EXTINF:-1 ,Horse and Country
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Law and Crime Network
+http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,Star Maa Movies FHD
+http://212.224.84.217:2200/R-EX/FHD_STAR_MAA_MOV-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
+#EXTINF:-1 ,Calary TV
+http://212.224.84.217:2200/R-EX/CALVARY_TV-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
+#EXTINF:-1 ,Star Bharat FHD
+http://212.224.84.217:2200/R-EX/FHD_STAR_BHARAT_-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
+#EXTINF:-1 ,Sony Pix FHD
+http://212.224.84.217:2200/R-EX/FHD_SONY_PIX_-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
+#EXTINF:-1 ,Mangalam TV
+http://212.224.84.217:2200/R-EX/MANGALAM_TV-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
+#EXTINF:-1 ,Zee Bangla FHD
+http://212.224.84.217:2200/R-EX/FHD_ZEE_BANGLA_-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
+#EXTINF:-1 ,Star Gold 2
+http://212.224.84.217:2200/R-EX/STAR_GOLD_2-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
+#EXTINF:-1 ,B4 Movies
+http://212.224.84.217:2200/EX/b4umovie-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
+#EXTINF:-1 group-title="Star7 By SabbirIPTV",Colors FHD
+http://212.224.84.217:2200/R-EX/FHD_COLORS_-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
+#EXTINF:-1 ,NDTV 24x7
+http://212.224.84.217:2200/R-EX/HINDI_NDTV_24x7-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
+#EXTINF:-1 ,Star Sports Hindi HD 1
+http://212.224.84.217:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
+#EXTINF:-1 ,UTV Movies
+http://212.224.84.217:2200/R-EX/HINDI_UTV_MOVIES-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
+#EXTINF:-1 ,Star Plus HD
+http://212.224.84.217:2200/R-EX/HINDI_STAR_PLUS_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
+#EXTINF:-1 ,Star Gold HD
+http://212.224.84.217:2200/R-EX/HINDI_STAR_GOLD_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
+#EXTINF:-1 ,Sony Max HD
+http://212.224.84.217:2200/R-EX/HINDI_SONY_MAX_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
+#EXTINF:-1 ,Sony Pix HD
+http://212.224.84.217:2200/R-EX/HINDI_SONY_PIX_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
+#EXTINF:-1 ,UTV Action
+http://212.224.84.217:2200/R-EX/HINDI_UTV_ACTION-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
+#EXTINF:-1 ,Nat Geo Wild HD
+http://212.224.84.217:2200/R-EX/HINDI_NAT_GEO_WILD_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
+#EXTINF:-1 ,Enter 10 Movies
+http://212.224.84.217:2200/R-EX/HINDI_ENTER_10_MOVIES-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
+#EXTINF:-1 ,zee Cinema HD
+http://212.224.84.217:2200/R-EX/HINDI_ZEE_CINEMA_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
+#EXTINF:-1 group-title="Movie" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/d6babb213bd3664e1f899865f0680182.jpg",[BD]star gold select hd@@1
+https://epg.pw/stream/2a9dd708d72ec48b550f505ec900d597d86a17878d66414f92acba5ac9a46496.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/d6babb213bd3664e1f899865f0680182.jpg",[BD]star gold hd
+https://epg.pw/stream/6ca17b9128543eb14207d19becc515cd2ea48804da269f780cdcfa51f4e83f2c.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/d6babb213bd3664e1f899865f0680182.jpg",[SD]star gold 2- rs 1
+https://epg.pw/stream/9a39367a33b414a036fcd7fa198e4de4d5a25124f5bef1bb85bbe78db9b95254.ctv
+#EXTINF:-1 group-title="Movie" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/d6babb213bd3664e1f899865f0680182.jpg",[BD]star gold fhd
+https://epg.pw/stream/8efe274bc30a01b85bdb574ce007892e2da6fd2cfe4f07f3b0326e66d2a89628.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/d6babb213bd3664e1f899865f0680182.jpg",[BD]star gold hd -rs10
+https://epg.pw/stream/de48655576d35da7d76e381a3e4afdf29a79f8b85ccfe01ffa56a2f309b6e46b.ctv
+#EXTINF:-1 group-title="Movie" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/d6babb213bd3664e1f899865f0680182.jpg",[BD]star gold@@2
+https://epg.pw/stream/5e36cf52879f354f500ad82e2be0fedc8523d6f39f04649eb1a819ce0028b7c0.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/d6babb213bd3664e1f899865f0680182.jpg",[BD]star gold select fhd
+https://epg.pw/stream/7d37e4ffaf532f20d6d8a3f0b204d6586239b603fc2864fc45513ce13055dd0f.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/d6babb213bd3664e1f899865f0680182.jpg",[SD]star maa gold hd
+https://epg.pw/stream/82e446838bb2269a24367176f8439db490025af1795dc9823d124ae93b54ff46.ctv
+#EXTINF:-1 group-title="Movie" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/d6babb213bd3664e1f899865f0680182.jpg",[VGA]star gold 2@@1
+https://epg.pw/stream/e5850ad2d7dc5dfb1a86679a6930217f674c917aa1fc7478149c094d5832fe92.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/d6babb213bd3664e1f899865f0680182.jpg",[HD]star gold
+https://epg.pw/stream/e59590473c4a8cfcd1ed1d54ea62355d76237d22433b1452992614b3441ed5fe.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/d6babb213bd3664e1f899865f0680182.jpg",[BD]star gold@@1
+https://epg.pw/stream/aaa81d2552ef91b29e09b3d9722fb5d6e0d4ede2ca8a6fd6565c06f494113fe0.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/d6babb213bd3664e1f899865f0680182.jpg",[BD]star-gold-hd
+https://epg.pw/stream/b45e48ea3d498b60de127caceacd5a6dbe2ab99240431cd30b02bef8a876754a.ctv
+#EXTINF:-1 group-title="Movie" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/d6babb213bd3664e1f899865f0680182.jpg",[BD]7099 star gold
+https://epg.pw/stream/d76b877920f26e3eec6c85f0b45f2ba8506402ae6c6db6f144611c032cd535f5.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/d6babb213bd3664e1f899865f0680182.jpg",[BD]sat.1 gold@@1
+https://epg.pw/stream/efd10516fb80444e5327c00b10b0c23b2f25a9757ddbac5b6b24fc57e476f64c.ctv
+#EXTINF:-1 group-title="Movie" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/d6babb213bd3664e1f899865f0680182.jpg",[HD]star gold 2@@2
+https://epg.pw/stream/4791bfb3c64773a93473985ec1c7ccc6bd62ebc6ddebcfb8b1877dfc9a1a4759.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/d6babb213bd3664e1f899865f0680182.jpg",[BD]hindi star gold hd
+https://epg.pw/stream/3ecda952447b7cb8cb28cc711c24c251d6caf3c90e622e2c9b2b5b3c0652203f.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/d6babb213bd3664e1f899865f0680182.jpg",[SD]star gold uk
+https://epg.pw/stream/4d8f90cc534dbcc85c34a45d8fab444ddcec6b616ec59a4ac3fa00c48dcc8bdf.ctv
+#EXTINF:-1 group-title="Movie" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/d6babb213bd3664e1f899865f0680182.jpg",[VGA]star gold 2
+https://epg.pw/stream/59844b94313a2abfa0a8b18210b0ede714976a9b25dcdfe15aa9ef713bbeecce.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/d6babb213bd3664e1f899865f0680182.jpg",[BD]Gold 78 (1080p)
+https://epg.pw/stream/df11f86e70b1925fff80b68251b6abbe82f233c21678e7034fcf7baf9a50e6c3.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://epg.pw/media/images/channel/2022/03/07/large/20220307214713447733_15.jpg",[BD]sun music hd@@1
+https://epg.pw/stream/280a692f607ed866e4d91268ef352e72b057b2cc07f8997bba76d1553f893ce2.ctv
+#EXTINF:-1 group-title="Music" tvg-logo="https://epg.pw/media/images/channel/2022/03/07/large/20220307214713447733_15.jpg",[HD]sun music
+https://epg.pw/stream/3024ed0a0480b1100b99c34b9271eb8317ae2299228f13664f3dd644309af242.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://epg.pw/media/images/channel/2022/03/07/large/20220307214713447733_15.jpg",[HD]tamil sun music hd
+https://epg.pw/stream/18469fcbe1f00e95e6495ae795c27f217788c0c3697118f0bbe7b99c61e7475f.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://epg.pw/media/images/channel/2022/03/07/large/20220307214713447733_15.jpg",[HD]sun music hd
+https://epg.pw/stream/b03be60100f90f42df883ca5b457d92de9d6ce57323244648996ef2e440729b2.ctv
+#EXTINF:-1 group-title="Sport" tvg-logo="https://epg.pw/media/images/channel/2022/08/07/large/20220807104118580819_28.jpg",[BD]starzplay sports hevc
+https://epg.pw/stream/c3350b3949f1354ae8c5a70fab64c9d6214f811803b2052344cc27d72bbd8587.ctv
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://epg.pw/media/images/channel/2019/09/09/large/20190909012032762279_50.png",[BD]hindi colors hd
+https://epg.pw/stream/fdd971a2a1ec62afc121e7e4a1307db89c2f69cae68b392fe952a316e6ec6d5e.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://epg.pw/media/images/channel/2019/09/09/large/20190909012032762279_50.png",[BD]tamil colors hd
+https://epg.pw/stream/e1868b7d5b4ac4dc0a7a063cd4a4f6c78cfb30f4e9f2c916d4d6cbaa30dea181.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://epg.pw/media/images/channel/2019/09/09/large/20190909012032762279_50.png",[BD]colors me
+https://epg.pw/stream/2718d1d3e3bcc860f3549489437fe89f36f5aca4e7ceed1103a3411bc05c4687.ctv
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://epg.pw/media/images/channel/2019/09/09/large/20190909012032762279_50.png",[BD]colors fhd
+https://epg.pw/stream/b0a0fc6f251bad45ca21baa8d0e430048639ba6f2c051c5d75ac12ebe2fe4dc3.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://epg.pw/media/images/channel/2019/09/09/large/20190909012032762279_50.png",[HD]marathi colors hd
+https://epg.pw/stream/52dd469f7dd30691d0ed44026bcbb8ec1c58bc276f8f103f1bb80a3f1c56b8ac.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://epg.pw/media/images/channel/2019/09/09/large/20190909012032762279_50.png",[BD]marathi colors fhd
+https://epg.pw/stream/66c50263e3f508c163be6b55e2bd547893f14967978765b2c1f1aafee2b3b74c.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://epg.pw/media/images/channel/2019/09/09/large/20190909012032762279_50.png",[BD]colors hd-rs 19
+https://epg.pw/stream/ac27accaa5ef35cc1b12356f4b6be2f46f927ba140fae0728b11d0b6827a317a.ctv
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://epg.pw/media/images/channel/2019/09/09/large/20190909012032762279_50.png",[HD]colors rishty
+https://epg.pw/stream/26e5a73f239d75f5eba7c0c9028e5169ab46ddb64daa63909a7ae61c8ddeae4f.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://epg.pw/media/images/channel/2019/09/09/large/20190909012032762279_50.png",[BD]kannada colors fhd
+https://epg.pw/stream/f667ee20641ae852550e8898c3cd8327d3b8b56f50ff26a05dc10b49daa59e2d.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://epg.pw/media/images/channel/2019/09/09/large/20190909012032762279_50.png",[BD]colors bangla fhd
+https://epg.pw/stream/10ef4df70f0f0372380ef3d37d8861b8fc609d248236c1f0d3402fae3bc1c15b.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://epg.pw/media/images/channel/2019/09/09/large/20190909012032762279_50.png",[BD]tamil colors fhd
+https://epg.pw/stream/89c7cc018ac75afe8ac54bddb43dfa13c3a4af82dcdf04bb868d2596b055ee9a.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://epg.pw/media/images/channel/2019/09/09/large/20190909012032762279_50.png",[HD]colors tamil hd
+https://epg.pw/stream/2778d98ba1d89f537e40a6793d84750c3efd4596b9b4dc56f3508b66b79c1314.ctv
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://epg.pw/media/images/channel/2019/09/09/large/20190909012032762279_50.png",[SD]colors  hd
+https://epg.pw/stream/243c4033d39b43805c81090d4837e7e9913bebc268899caa6a330db211b77040.ctv
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://epg.pw/media/images/channel/2019/09/09/large/20190909012032762279_50.png",[BD]COLORS HD (IN)
+https://epg.pw/stream/1642515a9c514cdd34d737518067b7813eba681f76d852f6e826011d372cf994.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128130814903955_39.jpg",[BD]hindi zee cinema hd
+https://epg.pw/stream/8f6ff7b08e5c5ad5898fa7744544b421c95a02691c8223fcaaeaa45221990c26.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128130814903955_39.jpg",[BD]zee cinema hd-rs19
+https://epg.pw/stream/8b784e5b5af8e2f323f495e73fc8c4288babefe68e0050d34207747a15014228.ctv
+#EXTINF:-1 group-title="Movie" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128130814903955_39.jpg",[HD]zee cinema
+https://epg.pw/stream/8b414c538b6af9684af05d252b361bee7664fa7c7928e1844438de9cb7776f3f.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128132506328601_68.jpg",[VGA]star plus
+https://epg.pw/stream/bf6886c6703aca48ac7ba80d4a7904b100964961fa33e3c6bfa7a4805ad33672.ctv
+#EXTINF:-1 group-title="Movie" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128132506328601_68.jpg",[BD]star plus hd -rs19
+https://epg.pw/stream/144d0fe4749b8bf3625ede2d3cb7c4e41c2f323f7836220f1ff15c0dd1fca2e8.ctv
+#EXTINF:-1 group-title="Movie" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128132506328601_68.jpg",[BD]star sports hd hindi fast
+https://epg.pw/stream/fca0549f7d3bfeba934daa1abe631ca877bd3d15be2f61dc9b501a1415459b1a.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128132506328601_68.jpg",[BD]hindi star plus hd
+https://epg.pw/stream/4b31567e18aec2874b6c076b2184f0fa7e88bba68a9c5defbbd16b3e92300a11.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128132506328601_68.jpg",[HD]tr| a2 hd plus
+https://epg.pw/stream/f407f35016a8c6fbd3de9e471161eb2e56df482b8f7773c908a5165c8da6da65.ctv
+#EXTINF:-1 group-title="Movie" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128132506328601_68.jpg",[HD]star sports hd 1 hindi
+https://epg.pw/stream/42c3dbc02d551d5c4fc5a9411e212eb759137263a0ccf83f0bcd46df5d6ba0cf.m3u8
+#EXTINF:-1 group-title="Generic" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128133547735115_32.jpg",[BD]go l indian@@1
+https://epg.pw/stream/547525413ca9bb42817335a69d6f44e8de45c8923d23f39dde5e9601078905f2.ctv
+#EXTINF:-1 group-title="Generic" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128133547735115_32.jpg",[BD]go l indian
+https://epg.pw/stream/6dc04551fc1e236b4ec4c124c057a29fae40975572bc9f846e2944898d15bb14.ctv
+#EXTINF:-1 group-title="Generic" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128134302715296_63.jpg",[SD]sony aath
+https://epg.pw/stream/45cc0401a0b8152dab2c9d306bf6d36f1c8c4cf5085b4d68b6f91fa68f11f81d.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128135446184717_14.jpg",[HD]Movie Kingdom (720p)
+https://epg.pw/stream/eb6c07226f77177b1ceaad558de2b492f136ff8bd3b9dc983f6d12d124e6da00.m3u8
+#EXTINF:-1 group-title="Generic" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128140125945567_10.jpg",[BD]tv mundial
+https://epg.pw/stream/5b01c362afc5c0d488cd4df571116f625b96d52094672a659eaaeb573055433f.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128144436424116_53.jpg",[VGA]9XM
+https://epg.pw/stream/23c718f673a1624e28508e5c495c4f4a0a0d8cdf253a94b366a58081c40fbed0.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128144436424116_53.jpg",[VGA]9XM (480p)
+https://epg.pw/stream/559cd0ea60e672d5fd8581ebcf3a3481b712d6eb5f84cfe118b39b8b349d4af7.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128144436424116_53.jpg",[VGA]9xm
+https://epg.pw/stream/335eb2ebba202bc356f7324e65a2ef042dbf630eb4588c22458b732729887d56.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163645983935_10.png",[BD]gujarat india news gujarat
+https://epg.pw/stream/1f7c1ee22076bc388adf2a62ec993797352c6a157a43ab2a9e14cbfc847379ed.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163645983935_10.png",[HD]hindi abp news
+https://epg.pw/stream/51411cd09e1320a93eb51794473683472fadc2e1796c458d30337525b784be71.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163645983935_10.png",[HD]hindi news 18 india
+https://epg.pw/stream/5602a287f96b383c034766ded0bb400d713ef75b79bf06edd464ab4aaff5d8d2.m3u8
